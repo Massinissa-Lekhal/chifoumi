@@ -1,0 +1,22 @@
+
+.button-67 {
+   
+    padding :7rem;
+    margin-left: auto;
+    margin-top: 100px;
+    
+  }
+
+  div {
+    border : solid thin #DDD;
+    margin : 10px;
+    padding : 5px 10px;
+  }
+
+
+  span {
+    font-size: 150px;
+  }
+  #restart{
+    background-color: rgb(17, 118, 34);
+  }
